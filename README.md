@@ -5,6 +5,8 @@ Welcome to _kolejka_
 
 Each task is described by a set of files, and a command to run in a docker container.
 
+See our [quickstart guide](https://github.com/kolejka/kolejka/wiki/Quickstart) if you want to quickly execute some tasks.
+
 Example
 -------
 For example, the following task executes command `uname` in a standard ubuntu container with reasonable time/cpu/mem limits and collects standard output.
